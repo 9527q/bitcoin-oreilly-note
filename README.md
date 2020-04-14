@@ -3,11 +3,14 @@
 《区块链 通往资产数字化之路》学习笔记
 ===============================
 
-本仓库用于记录这本书学习过程中的所有东西
+本仓库用于记录这本书学习过程中的所有东西，本书的原版已经有第二版《精通比特币》了，可是没有出版的中译版，只有各个途径找到的网上的。
+
+英语好还是建议读 Github 上的最新版，不行找找最新的中文版翻译也行，这本书确实有东西旧了。
 
 ## 资料
 
-[本书 Github 仓库](https://github.com/bitcoinbook/bitcoinbook)
+- [本书 Github 仓库](https://github.com/bitcoinbook/bitcoinbook)
+- [巴比特读书在线阅读：《精通比特币》](https://book.8btc.com/books/6/masterbitcoin2cn/_book/)
 
 ## 项目中代码目录
 
