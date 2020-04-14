@@ -1,3 +1,5 @@
+import re
+
 # ============  更改这里指定文件名 ===============
 isp_ip_file = 'CHINANET-20200413.txt'  # 电信网络全部 IP 的文件名
 bitnodes_files = [  # bitnodes.io 上面查出来的中国的 ip 的页面，保存成的 HTML 文件名
@@ -9,9 +11,9 @@ bitnodes_files = [  # bitnodes.io 上面查出来的中国的 ip 的页面，保
 ]
 # ============  下面不要动  =====================
 
-import re
 
 IP_RE = re.compile('Node status">(.+?)</a')  # IP 正则匹配
+
 
 def ip_to_int(ip):
     """
@@ -64,6 +66,5 @@ for bitnodes_file in bitnodes_files:
                 res.append(f'{ip} {int_to_ip(ip_left)} {int_to_ip(ip_right)}')
                 break
 
-with open('../same_isp_bitnode.txt', 'w') as f:
+with open('same_isp_bitnode.txt', 'w') as f:
     f.write('\n'.join(res))
-
