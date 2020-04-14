@@ -10,7 +10,7 @@
 ## 资料
 
 - [本书 Github 仓库](https://github.com/bitcoinbook/bitcoinbook)
-- [巴比特读书在线阅读：《精通比特币》](https://book.8btc.com/books/6/masterbitcoin2cn/_book/)
+- [巴比特读书在线阅读：《精通比特币》第二版](https://book.8btc.com/books/6/masterbitcoin2cn/_book/)
 
 ## 项目中代码目录
 
