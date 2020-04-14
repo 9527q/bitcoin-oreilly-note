@@ -1,3 +1,5 @@
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
+
 《区块链 通往资产数字化之路》学习笔记
 ===============================
 
