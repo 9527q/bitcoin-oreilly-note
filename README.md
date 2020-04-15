@@ -16,6 +16,7 @@
 
 - [寻找与自己属于同一网络运营商的比特币全节点](./find_same_isp_nodes/find_same_isp_ips.py)
 - [Python 实现从密钥到地址的转化过程（包括压缩地址）](./bit-gen-key.py)
+- [Python-ecdsa 库实现密钥到公钥的计算，完全只使用 Python](./bit-ecdsa.py)
 
 ## 产生博客目录
 
